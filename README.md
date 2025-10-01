@@ -5,7 +5,8 @@
 - Cloud Provider: Azure
 
 ## Video recording: 
-- Zoom/Loom: 
+(https://stonybrook.zoom.us/rec/share/QcVkq5cHlnmjrfZJsqqcFQXAq32mCFovIr_m7HZvkkyYN8QpAQIkWPgHA2luBQPV.HiQsJXgsq-sWEmGo?startTime=1759279606000
+Passcode: vFZ5!NBA) 
 
 ## Steps
 ### 1. VM Creation
